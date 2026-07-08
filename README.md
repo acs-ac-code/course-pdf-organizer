@@ -28,5 +28,5 @@ When implementing this workflow, be aware of the following:
 4. **Compression:** Standard `pypdf` compression is often insufficient for very large files; `pikepdf` is the preferred tool for significant size reduction.
 
 ## 📂 Repository Structure
-- `SKILL.md`: The formal skill definition for Hermes Agent.
+- `course-pdf-organizer.md`: The formal skill definition for Hermes Agent.
 - `scripts/`: A collection of reference Python scripts used during development (analysis, synchronization, and splitting).
